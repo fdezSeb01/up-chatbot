@@ -1,0 +1,51 @@
+{
+  "intents": [
+    {
+      "tag": "ingenieria",
+      "patterns": [
+        "Ingenieria en Ciberseguridad e Inteligencia de Datos",
+        "Ingenieria en innovacion y diseño",
+        "Ingenieria industrial",
+        "Ingenieria mecanica",
+        "Ingenieria mecatronica",
+        "Ingenieria civil",
+        "Ingenieria",
+        "Ingenieria en computacion",
+        "Ingenieria en Tecnologias de la Informacion",
+        "Ingenieria electronica"
+      ]
+    },
+	{
+	  "tag": "empresarial",
+	  "patterns": [
+	    "Administracion de empresas",
+	    "Negocios internacionales",
+	    "Mercadotecnia",
+	    "Economia",
+	    "Finanzas",
+	    "Politica exterior",
+	    "Gestión de Recursos Humanos",
+	    "Contabilidad",
+	    "Comercio Internacional",
+	    "Gestión de Proyectos",
+	    "Logística y Cadena de Suministro",
+	    "Marketing Digital"
+	  ]
+	},
+	{
+	  "tag": "ciencia_salud",
+	  "patterns": [
+	    "Medicina",
+	    "Medico cirujano",
+	    "Enfermeria",
+	    "Psicologia",
+	    "Odontologia",
+	    "Fisioterapia",
+	    "Terapia Ocupacional",
+	    "Nutricion",
+	    "Biologia",
+	    "Bioquimica"
+	  ]
+	}
+  ]
+}
